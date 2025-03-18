@@ -1,0 +1,7 @@
+C:\Visual Code\ATP\Iago Dias Silva\Atv6\Atv6\bin\Debug\Atv6.exe.config
+C:\Visual Code\ATP\Iago Dias Silva\Atv6\Atv6\bin\Debug\Atv6.exe
+C:\Visual Code\ATP\Iago Dias Silva\Atv6\Atv6\bin\Debug\Atv6.pdb
+C:\Visual Code\ATP\Iago Dias Silva\Atv6\Atv6\obj\Debug\Atv6.csproj.AssemblyReference.cache
+C:\Visual Code\ATP\Iago Dias Silva\Atv6\Atv6\obj\Debug\Atv6.csproj.CoreCompileInputs.cache
+C:\Visual Code\ATP\Iago Dias Silva\Atv6\Atv6\obj\Debug\Atv6.exe
+C:\Visual Code\ATP\Iago Dias Silva\Atv6\Atv6\obj\Debug\Atv6.pdb

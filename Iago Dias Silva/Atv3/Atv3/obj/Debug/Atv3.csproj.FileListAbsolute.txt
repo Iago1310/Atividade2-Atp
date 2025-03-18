@@ -1,0 +1,7 @@
+D:\Users\1549906\Downloads\Iago Dias Silva\Atv3\Atv3\bin\Debug\Atv3.exe.config
+D:\Users\1549906\Downloads\Iago Dias Silva\Atv3\Atv3\bin\Debug\Atv3.exe
+D:\Users\1549906\Downloads\Iago Dias Silva\Atv3\Atv3\bin\Debug\Atv3.pdb
+D:\Users\1549906\Downloads\Iago Dias Silva\Atv3\Atv3\obj\Debug\Atv3.csproj.AssemblyReference.cache
+D:\Users\1549906\Downloads\Iago Dias Silva\Atv3\Atv3\obj\Debug\Atv3.csproj.CoreCompileInputs.cache
+D:\Users\1549906\Downloads\Iago Dias Silva\Atv3\Atv3\obj\Debug\Atv3.exe
+D:\Users\1549906\Downloads\Iago Dias Silva\Atv3\Atv3\obj\Debug\Atv3.pdb
